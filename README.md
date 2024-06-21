@@ -1,7 +1,12 @@
 # 40Hz-AMSAD
-MIT's Professor Cai Lihui and her team found that 40Hz audio-visual stimulation has a good therapeutic effect on Alzheimer's mice. I believes that the root cause of Alzheimer's is the lack of deep sleep. Based on Professor Cai Lihui's research, I designed a 40Hz weak magnetic sleep aid device.
+MIT's Professor Cai Lihui and her team found that 40Hz audio-visual stimulation has a good therapeutic effect on Alzheimer's mice. 
+
+I believes that the root cause of Alzheimer's is the lack of deep sleep. Based on Professor Cai Lihui's research, I designed a 40Hz weak magnetic sleep aid device.
+
 The key to PCB design is the coil that is roughly the size of a pillow.
+
 The microcontroller chosen is CH32V003J4M6, which I happen to have on hand, as it is also used in another project, and it is also small in size and affordable.
+
 The power amplifier chosen is LTK5128D, which is widely used and affordable, with both AB mode and D mode. After testing, it was found that the AB mode has a better effect.
 
 Personal feeling on the sleep aid effect:
