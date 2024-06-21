@@ -11,6 +11,7 @@ The power amplifier chosen is LTK5128D, which is widely used and affordable, wit
 
 Personal feeling on the sleep aid effect:
 35Hz > 40Hz > 45Hz > 30Hz > 7.8Hz > 0.5Hz
+
 Below 30Hz, there is basically no sleep aid effect and it can even affect falling asleep. Above 30Hz, there is a more obvious sleep aid effect.
 
 MIT蔡立慧教师团队发现在40Hz的声光刺激下，对阿尔兹海默小鼠有很好的治愈效果。 我认为阿尔兹海默的原因在于没有很好的深度睡眠。 
