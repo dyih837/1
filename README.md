@@ -18,3 +18,7 @@ MIT蔡立慧教师团队发现在40Hz的声光刺激下，对阿尔兹海默小�
 个人感觉助眠效果：
 35Hz > 40Hz > 45Hz > 30Hz > 7.8Hz > 0.5Hz
 低于30Hz基本没有助眠效果，还会影响入睡。30Hz以上有比较明显的助眠效果。
+
+![1 Image](https://github.com/harlly88/40Hz-AMSAD/raw/main/PCB/20240621171410.jpg)
+![1 Image](https://github.com/harlly88/40Hz-AMSAD/raw/main/PCB/SCH_Schematic1_1-P1_2024-06-22.png)
+![1 Image](https://github.com/harlly88/40Hz-AMSAD/raw/main/PCB/PCB_PCB1_2024-06-22_00.jpg)
