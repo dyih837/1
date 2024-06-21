@@ -16,7 +16,7 @@ Personal feeling on the sleep aid effect:
 
 Below 30Hz, there is basically no sleep aid effect and it can even affect falling asleep. Above 30Hz, there is a more obvious sleep aid effect.
 
-MIT蔡立慧教师团队发现在40Hz的声光刺激下，对阿尔兹海默小鼠有很好的治愈效果。
+MIT蔡立慧教授团队发现在40Hz的声光刺激下，对阿尔兹海默小鼠有很好的治愈效果。
 
 [多感官伽马波刺激促进淀粉样蛋白的淋巴清除](https://www.nature.com/articles/s41586-024-07132-6)
 
