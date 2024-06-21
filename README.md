@@ -1,5 +1,5 @@
 # 40Hz-AMSAD
-MIT's Professor Cai Lihui and her team found that 40Hz audio-visual stimulation has a good therapeutic effect on Alzheimer's mice. 
+MIT's Professor Li-Huei Tsai and her team found that 40Hz audio-visual stimulation has a good therapeutic effect on Alzheimer's mice. 
 
 [Multisensory gamma stimulation promotes glymphatic clearance of amyloid](https://www.nature.com/articles/s41586-024-07132-6)
 
