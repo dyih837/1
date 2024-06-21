@@ -1,6 +1,8 @@
 # 40Hz-AMSAD
 MIT's Professor Cai Lihui and her team found that 40Hz audio-visual stimulation has a good therapeutic effect on Alzheimer's mice. 
 
+[Multisensory gamma stimulation promotes glymphatic clearance of amyloid](https://www.nature.com/articles/s41586-024-07132-6)
+
 I believes that the root cause of Alzheimer's is the lack of deep sleep. Based on Professor Cai Lihui's research, I designed a 40Hz weak magnetic sleep aid device.
 
 The key to PCB design is the coil that is roughly the size of a pillow.
@@ -14,8 +16,11 @@ Personal feeling on the sleep aid effect:
 
 Below 30Hz, there is basically no sleep aid effect and it can even affect falling asleep. Above 30Hz, there is a more obvious sleep aid effect.
 
-MIT蔡立慧教师团队发现在40Hz的声光刺激下，对阿尔兹海默小鼠有很好的治愈效果。 我认为阿尔兹海默的原因在于没有很好的深度睡眠。 
-我在蔡立慧教授研究基础上设计了40Hz的弱磁助眠设备。
+MIT蔡立慧教师团队发现在40Hz的声光刺激下，对阿尔兹海默小鼠有很好的治愈效果。
+
+[多感官伽马波刺激促进淀粉样蛋白的淋巴清除](https://www.nature.com/articles/s41586-024-07132-6)
+
+我认为阿尔兹海默的原因在于没有很好的深度睡眠。 我在蔡立慧教授研究基础上设计了40Hz的弱磁助眠设备。
 
 设计的关键是和枕头大致大小的线圈。
 单片机选用CH32V003J4M6，手边正好有，另外一个项目用到，另外就是体积小，便宜。
